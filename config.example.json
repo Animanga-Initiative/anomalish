@@ -1,0 +1,12 @@
+{
+    "shikimori": {
+        "client_id": "client_id",
+        "client_secret": "client_secret",
+        "redirect_uri": "urn:ietf:wg:oauth:2.0:oob",
+        "username": "username",
+        "client_name": "client_name"
+    },
+    "myanimelist": {
+        "username": "username"
+    }
+}

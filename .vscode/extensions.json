@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "ms-vscode.PowerShell",
+    "redhat.vscode-xml",
+    "HaaLeo.timing",
+    "tumido.cron-explained"
+  ]
+}
